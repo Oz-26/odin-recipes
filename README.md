@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will be applying what I learned about HTML to create a website containing cooking recipes. Once completed, I will have demonstrated a strong, foundational understanding in HTML, such as: crafting html boilerplate, using appropriate tags and elements, adding ordered and unordered lists and links, and uploading images.
